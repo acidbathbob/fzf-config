@@ -1,6 +1,17 @@
-# FZF Configuration
+# FZF Configuration for Fedora
 
 Custom FZF (fuzzy finder) configuration for bash with enhanced features and key bindings.
+My Operating System: 
+Fedora Linux 42
+KDE Plasma Version: 6.4.5
+KDE Frameworks Version: 6.19.0
+Qt Version: 6.9.2
+Kernel Version: 6.17.4-200.fc42.x86_64 (64-bit)
+Graphics Platform: Wayland
+Processors: 32 × Intel® Core™ i9-14900K
+Memory: 64 GiB of RAM (62.5 GiB usable)
+Graphics Processor: NVIDIA GeForce RTX 4070 Ti SUPER
+
 
 ## Features
 
